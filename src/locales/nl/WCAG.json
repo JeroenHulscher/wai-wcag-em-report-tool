@@ -732,7 +732,7 @@
             "DETAILS": {}
         },
         "2.4.12": {
-            "TITLE": "Focus niet bedekt (Enhanced)",
+            "TITLE": "Focus niet bedekt (Uitgebreid)",
             "DESCRIPTION": "When a user interface component receives keyboard focus, no part of the component is hidden by author-created content.",
             "DETAILS": {}
         },
@@ -767,7 +767,7 @@
             "DETAILS": {}
         },
         "3.3.9": {
-            "TITLE": "Toegankelijke authenticatie (Enhanced)",
+            "TITLE": "Toegankelijke authenticatie (Uitgebreid)",
             "DESCRIPTION": "A cognitive function test (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:",
             "DETAILS": {}
         }
