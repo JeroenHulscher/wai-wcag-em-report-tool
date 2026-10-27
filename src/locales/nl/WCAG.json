@@ -727,7 +727,7 @@
             "DETAILS": {}
         },
         "2.4.11": {
-            "TITLE": "Focus niet bedekt (Minimum)",
+            "TITLE": "Focus niet bedekt (minimum)",
             "DESCRIPTION": "Wanneer een component van de gebruikersinterface de toetsenbordfocus krijgt, wordt die component niet volledig bedekt door de content die door de auteur is gecreëerd.",
             "DETAILS": {}
         },
