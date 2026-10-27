@@ -728,47 +728,47 @@
         },
         "2.4.11": {
             "TITLE": "Focus niet bedekt (Minimum)",
-            "DESCRIPTION": "When a user interface component receives keyboard focus, the component is not entirely hidden due to author-created content.",
+            "DESCRIPTION": "Wanneer een component van de gebruikersinterface de toetsenbordfocus krijgt, wordt die component niet volledig bedekt door de content die door de auteur is gecreëerd.",
             "DETAILS": {}
         },
         "2.4.12": {
             "TITLE": "Focus niet bedekt (Uitgebreid)",
-            "DESCRIPTION": "When a user interface component receives keyboard focus, no part of the component is hidden by author-created content.",
+            "DESCRIPTION": "Wanneer een component van de gebruikersinterface de toetsenbordfocus krijgt, wordt geen enkel deel van die component bedekt door de content die door de auteur is gecreëerd.",
             "DETAILS": {}
         },
         "2.4.13": {
             "TITLE": "Focusweergave",
-            "DESCRIPTION": "When the keyboard focus indicator is visible, an area of the focus indicator meets all the following:",
+            "DESCRIPTION": "Wanneer de toetsenbordfocusindicator zichtbaar is, voldoet een gebied van de focusindicator aan alle volgende voorwaarden:",
             "DETAILS": {}
         },
         "2.5.7": {
             "TITLE": "Sleepbewegingen",
-            "DESCRIPTION": "All functionality that uses a dragging movement for operation can be achieved by a single pointer without dragging, unless dragging is essential or the functionality is determined by the user agent and not modified by the author.",
+            "DESCRIPTION": "Alle functionaliteit die voor de bediening gebruik maakt van een sleepbeweging kan worden bereikt door een enkele aanwijzer zonder slepen, tenzij slepen essentieel is of de functionaliteit wordt bepaald door de user agent en niet wordt aangepast door de auteur.",
             "DETAILS": {}
         },
         "2.5.8": {
             "TITLE": "Grootte van het aanwijsgebied (Minimum)",
-            "DESCRIPTION": "The size of the target for pointer inputs is at least 24 by 24 CSS pixels, except where:",
+            "DESCRIPTION": "De grootte van het aanwijsgebied voor aanwijzerinvoer is ten minste 24 bij 24 CSS pixels, behalve in de volgende gevallen:",
             "DETAILS": {}
         },
         "3.2.6": {
             "TITLE": "Consistente hulp",
-            "DESCRIPTION": "If a Web page contains any of the following help mechanisms, and those mechanisms are repeated on multiple Web pages within a set of Web pages, they occur in the same order relative to other page content, unless a change is initiated by the user:",
+            "DESCRIPTION": "Als een webpagina een van de volgende hulpmechanismen bevat, en die mechanismes op meerdere webpagina's binnen een verzameling webpagina's worden herhaald, dan komen ze in dezelfde relatieve volgorde voor ten opzichte van andere paginacontent, tenzij een wijziging wordt geïnitieerd door de gebruiker:",
             "DETAILS": {}
         },
         "3.3.7": {
             "TITLE": "Overbodige invoer",
-            "DESCRIPTION": "Information previously entered by or provided to the user that is required to be entered again in the same process is either:",
+            "DESCRIPTION": "Informatie die eerder is ingevoerd door of aangeboden aan de gebruiker en opnieuw moet worden ingevoerd tijdens hetzelfde proces is:",
             "DETAILS": {}
         },
         "3.3.8": {
             "TITLE": "Toegankelijke authenticatie (Minimum)",
-            "DESCRIPTION": "A cognitive function test (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:",
+            "DESCRIPTION": "Een cognitieve functietest (zoals het onthouden van een wachtwoord of het oplossen van een puzzel) is bij geen enkele stap van een authenticatie proces verplicht, tenzij die stap ten minste een van de volgende opties biedt:",
             "DETAILS": {}
         },
         "3.3.9": {
             "TITLE": "Toegankelijke authenticatie (Uitgebreid)",
-            "DESCRIPTION": "A cognitive function test (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:",
+            "DESCRIPTION": "Een cognitieve functietest (zoals het onthouden van een wachtwoord of het oplossen van een puzzel) is bij geen enkele stap van een authenticatie proces verplicht, tenzij die stap ten minste een van de volgende opties biedt:",
             "DETAILS": {}
         }
     }
