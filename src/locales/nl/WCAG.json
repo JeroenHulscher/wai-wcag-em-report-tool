@@ -762,7 +762,7 @@
             "DETAILS": {}
         },
         "3.3.8": {
-            "TITLE": "Toegankelijke authenticatie (Minimum)",
+            "TITLE": "Toegankelijke authenticatie (minimum)",
             "DESCRIPTION": "Een cognitieve functietest (zoals het onthouden van een wachtwoord of het oplossen van een puzzel) is bij geen enkele stap van een authenticatie proces verplicht, tenzij die stap ten minste een van de volgende opties biedt:",
             "DETAILS": {}
         },
