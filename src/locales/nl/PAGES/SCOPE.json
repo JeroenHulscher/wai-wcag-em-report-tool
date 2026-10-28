@@ -3,7 +3,7 @@
     "INTRO": "Bepaal de basiseisen en scope van de evaluatie. Dit wordt bij voorkeur gedaan door de opdrachtgever van de evaluatie (dit kan, maar hoeft niet de eigenaar van het digitale product te zijn), om ervoor te zorgen dat de verwachtingen op de opdracht aansluiten.",
     "RESOURCE_LINK_NAME": "Stap 1: Bepaal de scope van de evaluatie",
     "LABEL_SITE_NAME": "Naam van het digitale product",
-    "INF_SITE_NAME": "Vul een naam in van het te evalueren digitale product. Bijvoorbeeld:<ul><li>'Publiek digitaal product van Voorbeeld Organisatie'</li><li>'Webshop van Voorbeeld Bedrijf'</li><li>'Intranet van Voorbeeld Universiteit'</li></ul>",
+    "INF_SITE_NAME": "Vul een naam in van het te evalueren digitale product. Bijvoorbeeld:<ul><li>“Publiek digitaal product van Voorbeeld Organisatie”</li><li>“Webshop van Voorbeeld Bedrijf”</li><li>“Intranet van Voorbeeld Universiteit”</li></ul>",
     "LABEL_SITE_SCOPE": "Scope van het digitale product",
     "INF_SITE_SCOPE_0": "Leg de scope van het digitale product vast, zodat duidelijk is welke items binnen de evaluatie vallen. Voor meer informatie, zie [WCAG-EM Stap 1.1: Definieer de scope van het digitale product](https://www.w3.org/TR/WCAG-EM/#step1a). Bijvoorbeeld:",
     "INF_SITE_SCOPE_LI0": "'Alle content van de publieke website van Voorbeeld Org. op `http://www.voorbeeld.org`'",
