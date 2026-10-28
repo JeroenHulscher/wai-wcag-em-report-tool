@@ -749,80 +749,22 @@
         "2.5.8": {
             "TITLE": "Grootte van het aanwijsgebied (minimum)",
             "DESCRIPTION": "De grootte van het aanwijsgebied voor aanwijzerinvoer is ten minste 24 bij 24 CSS pixels, behalve in de volgende gevallen:",
-            "DETAILS": {
-                "1": {
-                    "DESCRIPTION": "Te kleine aanwijsgebieden (minder dan 24 bij 24 CSS-pixels) zijn gepositioneerd zodat als een cirkel met een diameter van 24 CSS-pixels wordt gecentreerd op het begrenzingskader van elk aanwijsgebied, de cirkels geen ander aanwijsgebied of de cirkel voor een ander te klein aanwijsgebied overlappen;",
-                    "TITLE": "Afstand"
-                },
-                "2": {
-                    "DESCRIPTION": "De functie kan worden bereikt via een ander bedieningselement op dezelfde pagina dat aan dit criterium voldoet;",
-                    "TITLE": "Gelijkwaardig"
-                },
-                "3": {
-                    "DESCRIPTION": "Het aanwijsgebied bevindt zich in een zin of de grootte ervan wordt op een andere manier beperkt door de regelhoogte van tekst die geen deel uitmaakt van het aanwijsgebied;",
-                    "TITLE": "Inline"
-                },
-                "4": {
-                    "DESCRIPTION": "De grootte van het aanwijsgebied wordt bepaald door de user agent en is niet aangepast door de auteur;",
-                    "TITLE": "Bepaald door user agent"
-                },
-                "5": {
-                    "DESCRIPTION": "Een specifieke weergave van het aanwijsgebied is essentieel of is wettelijk vereist voor de betreffende informatie.",
-                    "TITLE": "Essentieel"
-                }
-            }
+            "DETAILS": {}
         },
         "3.2.6": {
             "TITLE": "Consistente hulp",
             "DESCRIPTION": "Als een webpagina een van de volgende hulpmechanismen bevat, en die mechanismes op meerdere webpagina's binnen een verzameling webpagina's worden herhaald, dan komen ze in dezelfde relatieve volgorde voor ten opzichte van andere paginacontent, tenzij een wijziging wordt geïnitieerd door de gebruiker:",
-            "DETAILS": {
-                "1": {
-                    "DESCRIPTION": "Menselijke contactgegevens;"
-                },
-                "2": {
-                    "DESCRIPTION": "Menselijk contactmechanisme;"
-                },
-                "3": {
-                    "DESCRIPTION": "Zelfhulpoptie;"
-                },
-                "5": {
-                    "DESCRIPTION": "Een volledig geautomatiseerd contactmechanisme."
-                }
-            }
+            "DETAILS": {}
         },
         "3.3.7": {
             "TITLE": "Overbodige invoer",
             "DESCRIPTION": "Informatie die eerder is ingevoerd door of aangeboden aan de gebruiker en opnieuw moet worden ingevoerd tijdens hetzelfde proces is:",
-            "DETAILS": {
-                "1": {
-                    "DESCRIPTION": "automatisch ingevuld, of"
-                },
-                "2": {
-                    "DESCRIPTION": "beschikbaar voor de gebruiker om te selecteren."
-                }
-            }
+            "DETAILS": {}
         },
         "3.3.8": {
             "TITLE": "Toegankelijke authenticatie (minimum)",
             "DESCRIPTION": "Een cognitieve functietest (zoals het onthouden van een wachtwoord of het oplossen van een puzzel) is bij geen enkele stap van een authenticatie proces verplicht, tenzij die stap ten minste een van de volgende opties biedt:",
-            "DETAILS": {
-                "1": {
-                    "DESCRIPTION": "Een andere authenticatiemethode die niet afhankelijk is van een cognitieve functietest.",
-                    "TITLE": "Alternatief"
-                },
-                "2": {
-                    "DESCRIPTION": "Er is een mechanisme beschikbaar om de gebruiker te helpen bij het voltooien van de cognitieve functietest.",
-                    "TITLE": "Mechanisme"
-                },
-                "3": {
-                    "DESCRIPTION": "De cognitieve functietest is gericht op het herkennen van objecten.",
-                    "TITLE": "Objectherkenning"
-                },
-                "4": {
-                    "DESCRIPTION": "De cognitieve functietest is gericht op het identificeren van niet-tekstuele content die de gebruiker aan de website heeft verstrekt.",
-                    "TITLE": "Persoonlijke content"
-                }
-            }
+            "DETAILS": {}
         },
         "3.3.9": {
             "TITLE": "Toegankelijke authenticatie (uitgebreid)",
