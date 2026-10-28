@@ -9,7 +9,7 @@
     "INF_STRUCT_SAMPLE": "Selecteer representatieve items voor alle (1) veelgebruikte onderdelen van het digitale product, (2) essentiële functionaliteiten, (3) varianten van geselecteerde items, (4) technologieën waarop gesteund wordt, en (5) overige relevante items. Meer informatie vindt u in [WCAG-EM Stap 3.1: Gebruik een geordende sample](https://www.w3.org/TR/WCAG-EM/#step3a)</a>.<br> **Opmerking**: Items kunnen in verschillende varianten bestaan; zie de definitie [varianten van geselecteerde items](https://www.w3.org/TR/wcag-em/#principle-of-product-enclosure)",
     "HD_RANDOM_SAMPLE": "Willekeurige steekproef",
     "INF_RAND_SAMPLE": "Selecteer willekeurig items binnen de steekproef; gebruik 10% van de grootte van de geordende steekproef. Meer informatie vindt u in [WCAG-EM Stap 3.2: Gebruik een willekeurige steekproef](https://www.w3.org/TR/WCAG-EM/#step3b).<br> **Opmerking**: Items kunnen in verschillende varianten bestaan; zie de definitie [varianten van geselecteerde items](https://www.w3.org/TR/wcag-em/#principle-of-product-enclosure)",
-    "RAND_SAMPLE_LENGTH": "Op basis van de geselecteerde steekproef van {STRUCTURED_SAMPLE_COUNT} het digitale product, selecteer tenminste {REQUIRED_RANDOM_SAMPLE_COUNT} willekeurige items (om te voldoen aan de 10% eis uit WCAG-EM).",
+    "RAND_SAMPLE_LENGTH": "Selecteer minimaal {REQUIRED_RANDOM_SAMPLE_COUNT} willekeurige gekozen items.",
     "LABEL_HANDLE": "korte titel",
     "LABEL_PAGE": "Locatie (URL) of instructie",
     "NO_PAGES_DEFINED": "Er is geen item in deze lijst",
