@@ -7,7 +7,7 @@
     "LABEL_SITE_SCOPE": "Scope van het digitale product",
     "INF_SITE_SCOPE_0": "Leg de scope van het digitale product vast, zodat duidelijk is welke items binnen de evaluatie vallen. Voor meer informatie, zie [WCAG-EM Stap 1.1: Definieer de scope van het digitale product](https://www.w3.org/TR/WCAG-EM/#step1a). Bijvoorbeeld:",
     "INF_SITE_SCOPE_LI0": "'Alle content van de publieke website van Voorbeeld Org. op `http://www.voorbeeld.org`'",
-    "INF_SITE_SCOPE_LI1": "'Alle content van de webwinkel van Voorbeeld Org. op `http://www.voorbeeld.org/shop/`'",
+    "INF_SITE_SCOPE_LI1": "“Alle content van de webwinkel van Voorbeeld Org. op `http://www.voorbeeld.org/shop/`”",
     "INF_SITE_SCOPE_LI2": "'Alle content in de app van Voorbeeld Org. op `http://appstore.voorbeeld.org`'",
     "LABEL_WCAG_VERSION": "WCAG Versie",
     "INFO_WCAG_VERSION": "Selecteer de WCAG versie waarmee wordt geëvalueerd. Versie 2.2 (standaard), 2.1, or 2.0",
