@@ -732,7 +732,7 @@
             "DETAILS": {}
         },
         "2.4.12": {
-            "TITLE": "Focus niet bedekt (Uitgebreid)",
+            "TITLE": "Focus niet bedekt (uitgebreid)",
             "DESCRIPTION": "Wanneer een component van de gebruikersinterface de toetsenbordfocus krijgt, wordt geen enkel deel van die component bedekt door de content die door de auteur is gecreëerd.",
             "DETAILS": {}
         },
@@ -747,7 +747,7 @@
             "DETAILS": {}
         },
         "2.5.8": {
-            "TITLE": "Grootte van het aanwijsgebied (Minimum)",
+            "TITLE": "Grootte van het aanwijsgebied (minimum)",
             "DESCRIPTION": "De grootte van het aanwijsgebied voor aanwijzerinvoer is ten minste 24 bij 24 CSS pixels, behalve in de volgende gevallen:",
             "DETAILS": {
                 "1": {
@@ -825,7 +825,7 @@
             }
         },
         "3.3.9": {
-            "TITLE": "Toegankelijke authenticatie (Uitgebreid)",
+            "TITLE": "Toegankelijke authenticatie (uitgebreid)",
             "DESCRIPTION": "Een cognitieve functietest (zoals het onthouden van een wachtwoord of het oplossen van een puzzel) is bij geen enkele stap van een authenticatie proces verplicht, tenzij die stap ten minste een van de volgende opties biedt:",
             "DETAILS": {}
         }
