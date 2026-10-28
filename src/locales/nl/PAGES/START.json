@@ -23,7 +23,7 @@
     "CHOICES_DT3": "Afgekeurd",
     "CHOICES_DD3": "Dit succescriterium is niet goedgekeurd.",
     "CHOICES_DT4": "Niet van toepassing",
-    "CHOICES_DD4": "Dit succescriterium hangt samen met een functionaliteit die ontbreekt in deze authoring tool, dus is het niet van toepassing. ",
+    "CHOICES_DD4": "Dit succescriterium hangt samen met een functionaliteit die ontbreekt in deze authoring tool, dus is het niet van toepassing.",
     "CHOICES_DT5": "Onduidelijk",
     "CHOICES_DD5": "Het is onduidelijk of dit succescriterium is behaald.",
     "WELCOME_MESSAGE": "<strong>Opmerking:</strong> De WCAG-EM Report Tool is gebaseerd op <a href='https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/#versiondiff'>WCAG-EM 2</a>. Het kan worden gebruikt om websites, apps en andere digitale producten te evalueren. Alle wijzigingen worden bijgehouden in de <a href='https://github.com/w3c/wai-wcag-em-report-tool/releases/tag/4.1.0'>changelog</a>."
