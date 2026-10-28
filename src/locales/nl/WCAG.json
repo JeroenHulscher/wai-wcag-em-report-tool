@@ -416,15 +416,15 @@
                 },
                 "4": {
                     "DESCRIPTION": "De tijdslimiet is onderdeel van een realtime gebeurtenis (een veiling bijvoorbeeld) en er is geen alternatief voor de tijdslimiet mogelijk; of",
-                    "TITLE": "Real-time uitzondering:"
+                    "TITLE": "Real-time uitzondering"
                 },
                 "5": {
                     "DESCRIPTION": "De tijdslimiet is essentieel en verlenging zou de activiteit ongeldig maken; of",
-                    "TITLE": "Essentiële uitzondering:"
+                    "TITLE": "Essentiële uitzondering"
                 },
                 "6": {
                     "DESCRIPTION": "De tijdslimiet is langer dan 20 uur.",
-                    "TITLE": "20 uur uitzondering:"
+                    "TITLE": "20 uur uitzondering"
                 }
             }
         },
@@ -434,11 +434,11 @@
             "DETAILS": {
                 "1": {
                     "DESCRIPTION": "Voor bewegende, knipperende of scrollende informatie die (1) automatisch start, (2) langer dan vijf seconden duurt, en (3) parallel met andere content wordt getoond, is er een mechanisme voor de gebruiker om dit te pauzeren, te stoppen of te verbergen, tenzij de beweging, knippering of scrolling, onderdeel is van een activiteit waar ze essentieel is en",
-                    "TITLE": "Bewegen, knipperen, scrollen:"
+                    "TITLE": "Bewegen, knipperen, scrollen"
                 },
                 "2": {
                     "DESCRIPTION": "Voor elke soort automatisch actualiserende informatie die (1) automatisch start en (2) parallel met andere content wordt gepresenteerd, is er een mechanisme voor de gebruiker om dit te pauzeren, te stoppen of te verbergen of de frequentie van de actualisering in te stellen, tenzij de automatische actualisering onderdeel is van een activiteit waar ze essentieel is.",
-                    "TITLE": "Automatisch actualiserend:"
+                    "TITLE": "Automatisch actualiserend"
                 }
             }
         },
@@ -749,22 +749,80 @@
         "2.5.8": {
             "TITLE": "Grootte van het aanwijsgebied (Minimum)",
             "DESCRIPTION": "De grootte van het aanwijsgebied voor aanwijzerinvoer is ten minste 24 bij 24 CSS pixels, behalve in de volgende gevallen:",
-            "DETAILS": {}
+            "DETAILS": {
+                "1": {
+                    "DESCRIPTION": "Te kleine aanwijsgebieden (minder dan 24 bij 24 CSS-pixels) zijn gepositioneerd zodat als een cirkel met een diameter van 24 CSS-pixels wordt gecentreerd op het begrenzingskader van elk aanwijsgebied, de cirkels geen ander aanwijsgebied of de cirkel voor een ander te klein aanwijsgebied overlappen;",
+                    "TITLE": "Afstand"
+                },
+                "2": {
+                    "DESCRIPTION": "De functie kan worden bereikt via een ander bedieningselement op dezelfde pagina dat aan dit criterium voldoet;",
+                    "TITLE": "Gelijkwaardig"
+                },
+                "3": {
+                    "DESCRIPTION": "Het aanwijsgebied bevindt zich in een zin of de grootte ervan wordt op een andere manier beperkt door de regelhoogte van tekst die geen deel uitmaakt van het aanwijsgebied;",
+                    "TITLE": "Inline"
+                },
+                "4": {
+                    "DESCRIPTION": "De grootte van het aanwijsgebied wordt bepaald door de user agent en is niet aangepast door de auteur;",
+                    "TITLE": "Bepaald door user agent"
+                },
+                "5": {
+                    "DESCRIPTION": "Een specifieke weergave van het aanwijsgebied is essentieel of is wettelijk vereist voor de betreffende informatie.",
+                    "TITLE": "Essentieel"
+                }
+            }
         },
         "3.2.6": {
             "TITLE": "Consistente hulp",
             "DESCRIPTION": "Als een webpagina een van de volgende hulpmechanismen bevat, en die mechanismes op meerdere webpagina's binnen een verzameling webpagina's worden herhaald, dan komen ze in dezelfde relatieve volgorde voor ten opzichte van andere paginacontent, tenzij een wijziging wordt geïnitieerd door de gebruiker:",
-            "DETAILS": {}
+            "DETAILS": {
+                "1": {
+                    "DESCRIPTION": "Menselijke contactgegevens;"
+                },
+                "2": {
+                    "DESCRIPTION": "Menselijk contactmechanisme;"
+                },
+                "3": {
+                    "DESCRIPTION": "Zelfhulpoptie;"
+                },
+                "5": {
+                    "DESCRIPTION": "Een volledig geautomatiseerd contactmechanisme."
+                }
+            }
         },
         "3.3.7": {
             "TITLE": "Overbodige invoer",
             "DESCRIPTION": "Informatie die eerder is ingevoerd door of aangeboden aan de gebruiker en opnieuw moet worden ingevoerd tijdens hetzelfde proces is:",
-            "DETAILS": {}
+            "DETAILS": {
+                "1": {
+                    "DESCRIPTION": "automatisch ingevuld, of"
+                },
+                "2": {
+                    "DESCRIPTION": "beschikbaar voor de gebruiker om te selecteren."
+                }
+            }
         },
         "3.3.8": {
             "TITLE": "Toegankelijke authenticatie (Minimum)",
             "DESCRIPTION": "Een cognitieve functietest (zoals het onthouden van een wachtwoord of het oplossen van een puzzel) is bij geen enkele stap van een authenticatie proces verplicht, tenzij die stap ten minste een van de volgende opties biedt:",
-            "DETAILS": {}
+            "DETAILS": {
+                "1": {
+                    "DESCRIPTION": "Een andere authenticatiemethode die niet afhankelijk is van een cognitieve functietest.",
+                    "TITLE": "Alternatief"
+                },
+                "2": {
+                    "DESCRIPTION": "Er is een mechanisme beschikbaar om de gebruiker te helpen bij het voltooien van de cognitieve functietest.",
+                    "TITLE": "Mechanisme"
+                },
+                "3": {
+                    "DESCRIPTION": "De cognitieve functietest is gericht op het herkennen van objecten.",
+                    "TITLE": "Objectherkenning"
+                },
+                "4": {
+                    "DESCRIPTION": "De cognitieve functietest is gericht op het identificeren van niet-tekstuele content die de gebruiker aan de website heeft verstrekt.",
+                    "TITLE": "Persoonlijke content"
+                }
+            }
         },
         "3.3.9": {
             "TITLE": "Toegankelijke authenticatie (Uitgebreid)",
