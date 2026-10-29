@@ -13,7 +13,7 @@
     "USAGE_HD": "Hoe deze tool werkt",
     "USAGE_LI1": "Alle functionaliteit is direct in uw webbrowser beschikbaar. U heeft geen internetverbinding nodig vanaf dit punt. <br> **Opmerking:** Wanneer u het venster van de webbrowser sluit, raken gegevens die u niet heeft bewaard verloren.",
     "USAGE_LI2": "Alle gegevens die u invult worden als JSON data op de achtergrond bewaard (in uw webbrowser, niet op een server). U kunt periodiek opslaan terwijl u werkt, om te voorkomen dat u data verliest mocht uw webbrowser sluiten.",
-    "USAGE_LI3": "U kunt tussentijdse rapporten bewaren en er later aan verder werken. Gebruik de ‘Open rapport’ knop op de eerste pagina en laad daar het bestand dat u eerder hebt opgeslagen.",
+    "USAGE_LI3": "U kunt tussentijdse rapporten bewaren en er later aan verder werken. Gebruik de “Open rapport” knop op de eerste pagina en laad daar het bestand dat u eerder hebt opgeslagen.",
     "CHOICES_HEADING": "Resultaat keuzes",
     "CHOICES_INTRO": "Als u verder gaat om de evalueren, selecteert u een “resultaat“ voor ieder succescriterium. Hier is een legenda met de betekenis van deze keuzes:",
     "CHOICES_DT1": "Niet beoordeeld",
